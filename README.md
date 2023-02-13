@@ -13,3 +13,11 @@ https://www.kaggle.com/datasets/mohansacharya/graduate-admissions
 1. Exploratory Data Analysis
 2. Data preprocessing 
 3. Building predictive models using Linear Regression, Decision Tree and Random Forest
+
+### RESULTS
+
+The data was used to train multiple models using the three following algorithms and the achieved accuracies are as mentioned below:
+
+1. Linear Regression : 81.97
+2. Decision Tree : 86.64
+3. Random Forest : 93.12
